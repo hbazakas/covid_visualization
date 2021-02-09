@@ -11,7 +11,11 @@ My Tableau Visualizations that were used as part of this work are available here
 
 Data used to create these notebooks and visualizations was collected from the following sources:
 https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
+
 https://www.ers.usda.gov/data-products/county-level-data-sets/
+
 https://github.com/CSSEGISandData/COVID-19/blob/master/README.md
+
 https://covidtracking.com/race
+
 https://www.nber.org/research/data/us-intercensal-county-population-data-age-sex-race-and-hispanic-origin
